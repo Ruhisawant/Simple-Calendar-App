@@ -4,7 +4,7 @@
 
 ## 📸 Screenshot
 
-![TimeTabled Screenshot](./public/calendar_img.jpg)
+![TimeTabled Screenshot](./public/planner.jpg)
 
 ## 🚀 Features
 
