@@ -26,7 +26,6 @@
 ## 📁 Project Structure
 
 ```
-
 src/
 ├── App.jsx
 ├── App.css
@@ -34,7 +33,6 @@ src/
 └── components/
   ├── Calendar.jsx
   └── Event.jsx
-
 ````
 
 ## 📝 How to Run
