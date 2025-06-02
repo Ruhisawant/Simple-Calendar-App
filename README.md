@@ -1,10 +1,10 @@
-# 🗓️ Timetabled - Simple Week Planner
+# 🗓️ TimeTabled - Simple Week Planner
 
 **Timetabled** is a grid-style calendar built with React that maps out a one-week schedule with one-hour time blocks from 8 AM to 5 PM. Each event block is color-coded and personalized for a specific recipient—in this version, a fictional or real individual of your choice.
 
 ## 📸 Screenshot
 
-![Timetabled Screenshot](./public/calendar_img.jpg)
+![TimeTabled Screenshot](./public/calendar_img.jpg)
 
 ## 🚀 Features
 
